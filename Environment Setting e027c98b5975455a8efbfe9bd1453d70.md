@@ -6,8 +6,7 @@ Re-Earth is an application that runs on a web browser.
 
 It is compatible with all desktops, OS (Windows, macOS, Linux, Chrome OS) as well as mobiles, OS's (iOS, Android) that can run modern web browsers.
 
-### Internet connection[](https://docs.reearth.io/user-manual/getting-started/environment-setting/browser-setup#internet-connection)
-
+### Internet connection
 Re: Earth requires an Internet connection to operate. This means that offline works are not supported at this time.
 
 If the Internet connection is lost while using Re-Earth, your changes may not be saved properly.
